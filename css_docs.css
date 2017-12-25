@@ -1,0 +1,46 @@
+a:hover{
+text-decoration: none;
+  color:white;
+}
+
+a{
+  font-family:'Designil Font', 'Helvetica', sans-serif; 
+  font-family: 'Athiti', sans-serif;
+  font-size: 5mm;
+}
+
+h4,label{
+  font-family:'Designil Font', 'Helvetica', sans-serif;
+  font-family: 'Athiti', sans-serif;
+}
+
+.fontbig{
+   font-size: 6mm;
+}
+
+.shadow{
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19)
+}
+
+.jumbotron {
+  font-family: 'Athiti', sans-serif;
+  padding-top: 1.5%;
+  padding-bottom: 100%;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19)
+}
+
+.card{
+  font-family: 'Athiti', sans-serif;
+}
+   
+.text-search{
+  margin-left:49.25%;
+}
+
+.marginbottom{
+  margin-bottom: 100em;
+}
+
+.background{
+  background-color: #e9ecef;
+}
